@@ -1,4 +1,18 @@
-##                                                                                                                                                            آداب
+<table width="100%">
+<tr>
+<td align="left">
+
+<h1>నమస్కారం </h1>
+
+</td>
+
+<td align="right">
+
+<h1 dir="rtl">آداب</h1>
+
+</td>
+</tr>
+</table>
 
 #  About Me:
 I play CS 1.6, Titan fall 2 and Cyberpunk 2077 thats my Bermuda triangle and sometimes I code.
