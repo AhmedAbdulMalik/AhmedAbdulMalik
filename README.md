@@ -1,4 +1,4 @@
-## Hi there 👋
+## YoOo! 
 
 # 💫 About Me:
 I play CS 1.6 and sometimes code 
