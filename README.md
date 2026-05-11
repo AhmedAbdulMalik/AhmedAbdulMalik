@@ -14,7 +14,9 @@
 </p>
 
 #  About Me:
-I play CS 1.6, Titan fall 2 and Cyberpunk 2077 thats my Bermuda triangle and sometimes I code.
+I play CS 1.6, Titan fall 2 and Cyberpunk 2077 thats my Bermuda triangle and sometimes I code (every few weeks i look at my old code and go "what stupidity lead to this?") I also do drawing architectural, here's one of my creations that I definitely didn't copy from YT tutorial.
+
+
 
 
 ##  Socials:
