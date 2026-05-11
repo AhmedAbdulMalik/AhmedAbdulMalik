@@ -1,15 +1,12 @@
-<table width="100%">
-<tr>
-<td align="left">
-<h1>నమస్కారం </h1>
-</td>
-<td align="right">
-<h1 dir="rtl">آداب</h1>
 
-</td>
-</tr>
-</table>
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/నమస్కారం-4B0082?style=for-the-badge" height="80"/>
+  <img src="https://img.shields.io/badge/آداب-8B0000?style=for-the-badge" height="80"/>
+</p>
+
+
+
+
 
 <div align="center">
 <table> <tr>
