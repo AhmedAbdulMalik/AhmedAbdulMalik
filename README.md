@@ -7,16 +7,16 @@
 
 <p align="center">
 
-<img src="https://i.makeagif.com/media/11-30-2020/Cu5mwF.gif" width="31%"/> &nbsp;
+<img src="https://i.makeagif.com/media/11-30-2020/Cu5mwF.gif" width="31%"/> &nbsp; 
 <img src="https://i.pinimg.com/originals/23/96/09/239609fc3d765196f38dd15683425b4e.gif" width="31%"/> &nbsp;
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHh0MTY5cm9qaGUxdzJ0OHJtMHQwc295YmVjMzllNnRpaGk3bnZkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jVAt83ieT49H6ja5Ty/giphy.gif" width="31%"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHh0MTY5cm9qaGUxdzJ0OHJtMHQwc295YmVjMzllNnRpaGk3bnZkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jVAt83ieT49H6ja5Ty/giphy.gif" width="27%"/>
 
 </p>
 
 #  About Me:
 I play CS 1.6, Titan fall 2 and Cyberpunk 2077 thats my Bermuda triangle and sometimes I code (every few weeks i look at my old code and go "what stupidity lead to this?") I also do drawing architectural, here's one of my creations that I definitely didn't copy from YT tutorial.Also some photography on the sides.
 <br>
-<img src="/malikdraw1.jpeg" width="31%">
+<img src="https://raw.githubusercontent.com/AhmedAbdulMalik/AhmedAbdulMalik/refs/heads/main/malikdraw1.jpeg" width="31%">
 
 
 ##  Socials:
