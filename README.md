@@ -1,25 +1,22 @@
 <table width="100%">
 <tr>
 <td align="left">
-
 <h1>నమస్కారం </h1>
-
 </td>
-
 <td align="right">
-
 <h1 dir="rtl">آداب</h1>
 
 </td>
 </tr>
 </table>
-<br><br><br>
+<br>
 
 <div align="center">
-
-<img src="https://i.makeagif.com/media/11-30-2020/Cu5mwF.gif">
-<img src="https://i.pinimg.com/originals/23/96/09/239609fc3d765196f38dd15683425b4e.gif">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHh0MTY5cm9qaGUxdzJ0OHJtMHQwc295YmVjMzllNnRpaGk3bnZkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jVAt83ieT49H6ja5Ty/giphy.gif">
+<table> <tr>
+<td><img src="https://i.makeagif.com/media/11-30-2020/Cu5mwF.gif"></td>
+<td><img src="https://i.pinimg.com/originals/23/96/09/239609fc3d765196f38dd15683425b4e.gif"></td>
+<td><img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNHh0MTY5cm9qaGUxdzJ0OHJtMHQwc295YmVjMzllNnRpaGk3bnZkOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jVAt83ieT49H6ja5Ty/giphy.gif"></td>
+</tr> </table>
 </div>
 
 
