@@ -1,10 +1,4 @@
 
-<p align="left">
-  <img src="https://img.shields.io/badge/నమస్కారం-4B0082?style=for-the-badge" height="80"/>
-  <img src="https://img.shields.io/badge/آداب-8B0000?style=for-the-badge" height="80"/>
-</p>
-
-
 <p align="center">
 
 <img src="https://i.makeagif.com/media/11-30-2020/Cu5mwF.gif" width="31%"/> &nbsp; 
