@@ -10,8 +10,10 @@
 #  About Me:
 I play CS 1.6, Titan fall 2 and Cyberpunk 2077 thats my Bermuda triangle and sometimes I code (every few weeks i look at my old code and go "what stupidity lead to this?") I also do drawing architectural, here's one of my creations that I definitely didn't copy from YT tutorial.Also some photography on the sides.
 <br>
-<img src="https://raw.githubusercontent.com/AhmedAbdulMalik/AhmedAbdulMalik/refs/heads/main/malikdraw1.jpeg" width="27%">
-
+<img src="https://raw.githubusercontent.com/AhmedAbdulMalik/AhmedAbdulMalik/refs/heads/main/malikdraw1.jpeg" width="22%">
+<img src="https://ahmedabdulmalik.github.io/tech_evp_task/scene1.jpeg" width="25%"> 
+<img src="https://ahmedabdulmalik.github.io/tech_evp_task/scene4.jpeg" width="25%">
+<img src="https://ahmedabdulmalik.github.io/tech_evp_task/scene3.jpeg" width="25%"> 
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedAbdulMalik ) [![Website](https://img.shields.io/badge/website-white)](https://ahmedabdulmalik.github.io/tech_evp_task/)
@@ -31,9 +33,3 @@ I play CS 1.6, Titan fall 2 and Cyberpunk 2077 thats my Bermuda triangle and som
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AhmedAbdulMalik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AhmedAbdulMalik&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=AhmedAbdulMalik&icon=6&color=0)](https://visitcount.itsvg.in)
